@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http:s//www.escaperoomorganizer.de/"
+languageCode = "de-de"
+title = "Escape Room Organizer"
+publishDir = "docs"
