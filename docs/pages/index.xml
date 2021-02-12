@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Escape Room Organizer</title>
+    <link>http:s//www.escaperoomorganizer.de/pages/</link>
+    <description>Recent content in Pages on Escape Room Organizer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language><atom:link href="http:s//www.escaperoomorganizer.de/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http:s//www.escaperoomorganizer.de/pages/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http:s//www.escaperoomorganizer.de/pages/impressum/</guid>
+      <description>Verantwortlich: Marcel Gerloff
+Baltrumweg 23
+42579 Heiligenhaus
+Kontakt: info@escaperoomorganizer.de</description>
+    </item>
+    
+  </channel>
+</rss>
