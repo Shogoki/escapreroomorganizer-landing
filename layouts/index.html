@@ -121,10 +121,18 @@
           Entwicklungen informiert zu werden
         </div>
         <div class="col">
-          <a href="" class="btn btn-success" role="button">jetzt Anmelden</a>
+          <a
+            href=""
+            class="btn btn-success"
+            role="button"
+            data-bs-toggle="modal"
+            data-bs-target="#newsletterModal"
+            >jetzt Anmelden</a
+          >
         </div>
       </div>
     </div>
   </section>
 </main>
+{{ partial "newsletter_modal.html"}}
 {{ partial "footer.html" . }}
