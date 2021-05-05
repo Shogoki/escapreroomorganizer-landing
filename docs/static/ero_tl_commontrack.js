@@ -1,0 +1,1 @@
+!function(){"use strict";var o,e,t,r=(o="ero_ref",e=null,t=[],location.search.substr(1).split("&").forEach((function(r){(t=r.split("="))[0]===o&&(e=decodeURIComponent(t[1]))})),e);r?(console.log("setting ero_ref in localstorage"),localStorage.setItem("ero_ref",r)):(console.log("Getting ero_ref from localStorage"),r=localStorage.getItem("ero_ref"))}();
